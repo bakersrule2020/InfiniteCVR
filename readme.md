@@ -7,7 +7,7 @@
 <p align="center">the first client for ChilloutVR</p>
 <h1>Prerequisites</h1>
 <ol>
-  <li>[BTKUiLib](https://github.com/BTK-Development/BTKUILib/releases/latest)</li>
+  <li>![BTKUiLib](https://github.com/BTK-Development/BTKUILib/releases/latest)</li>
 </ol>
 <h1>How do i install zulu client?</h1>
 <ol>
