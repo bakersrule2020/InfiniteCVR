@@ -5,6 +5,10 @@
 </p>
 <h1 align="center">ZULU CLIENT</h1>
 <p align="center">the first client for ChilloutVR</p>
+<h1>Prerequisites</h1>
+<ol>
+  <li>[BTKUiLib](https://github.com/BTK-Development/BTKUILib/releases/latest)</li>
+</ol>
 <h1>How do i install zulu client?</h1>
 <ol>
 <li>You need to install chilloutVR, You could do this by searching steam for it!</li>
