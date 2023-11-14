@@ -8,7 +8,7 @@
 <h1>How do i install zulu client?</h1>
 <ol>
 <li>You need to install chilloutVR, You could do this by searching steam for it!</li>
-<li>install the latest version of [Melonloader](https://github.com/LavaGang/MelonLoader/releases)</li>
+<li>install the latest version of melonloader</li>
 <li>Once Installed, run the melonloader installer and find chilloutvr by going into the steam installation and clicking "properties" and "browse local files"</li>
 <li>Copy the path into the installer and click download.</li>
 <li>2 folders called plugins and mods should appear, Once that happens, grab zulu clients dll file and place it into the mods folder.</li>
