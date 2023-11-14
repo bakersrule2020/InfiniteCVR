@@ -8,6 +8,7 @@
 <h1>Prerequisites</h1>
 <ol>
   <li>BTKUiLib (https://github.com/BTK-Development/BTKUILib/releases/latest)</li>
+  <li>DiscordRPC (https://drive.google.com/file/d/1g58GR7bNf3V5P7Dxt8hrzYxPgUpRW6RB/view?usp=sharing)</li>
 </ol>
 <h1>How do i install zulu client?</h1>
 <ol>
