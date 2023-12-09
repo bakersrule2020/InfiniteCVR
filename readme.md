@@ -1,21 +1,19 @@
 > [!note]
->Zulu is in an alpha stage, You can help improve it by creating an issue!.
+>This guide assumes you already have knowledge of how to install mods and already have MelonLoader installed and have ran the game with melonloader at least once.
 <p align="center">
 <img width="150px" src="https://avatars.githubusercontent.com/u/150058133?s=200">
 </p>
-<h1 align="center">ZULU CLIENT</h1>
-<p align="center">the first client for ChilloutVR</p>
+<h1 align="center">Zulu Client</h1>
+<p align="center">The first and best client for ChilloutVR.</p>
 <h1>Prerequisites</h1>
 <ol>
-  <li>BTKUiLib (https://github.com/BTK-Development/BTKUILib/releases/latest) In your Mods Folder</li>
-  <li>DiscordRPC (https://drive.google.com/file/d/1g58GR7bNf3V5P7Dxt8hrzYxPgUpRW6RB/view?usp=sharing) In your Userlibs Folder</li>
+  <li>BTKUiLib (https://github.com/BTK-Development/BTKUILib/releases/latest) in ChilloutVR\Mods</li>
+  <li>DiscordRPC (https://drive.google.com/file/d/1g58GR7bNf3V5P7Dxt8hrzYxPgUpRW6RB/view?usp=sharing) in ChilloutVR\Userlibs</li>
 </ol>
-<h1>How do i install zulu client?</h1>
+<h1>How do I install zulu client?</h1>
 <ol>
-<li>You need to install chilloutVR, You could do this by searching steam for it!</li>
-<li>install the latest version of melonloader</li>
-<li>Once Installed, run the melonloader installer and find chilloutvr by going into the steam installation and clicking "properties" and "browse local files"</li>
-<li>Copy the path into the installer and click download.</li>
-<li>2 folders called plugins and mods should appear, Once that happens, grab zulu clients dll file and place it into the mods folder.</li>
+  <li>Install everything listed in prerequisites.</li>
+  <li>Download "ZuluClientCVR.dll" and (Optional) "ZCUpdater.dll"</li>
+  <li>Put "ZuluClientCVR.dll" into Mods, and "ZCUpdater.dll" into Plugins.</li>
 </ol>
-<footer align="center">If it doesn't work than that's a skill issue</footer>
+<footer>If this still does not work, contact me on discord: "tocat."</footer>
