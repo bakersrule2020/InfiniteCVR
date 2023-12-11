@@ -1,7 +1,7 @@
 > [!note]
 >This guide assumes you already have knowledge of how to install mods and already have MelonLoader installed and have ran the game with melonloader at least once.
 <p align="center">
-<img width="150px" src="https://avatars.githubusercontent.com/u/150058133?s=200">
+<img width="150px" src="https://github.com/bakersrule2020/InfiniteCVR/blob/main/InfLogo.png?raw=true">
 </p>
 <h1 align="center">Zulu Client</h1>
 <p align="center">The first and best client for ChilloutVR.</p>
